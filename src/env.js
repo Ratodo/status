@@ -1,11 +1,11 @@
 export const config = {
-    ENDPOINT: "https://v1.nocodeapi.com/betauser/uptime/dHmQOXeWbdNuJsII?monitors=784130459-784130462",
+    ENDPOINT: "https://v1.nocodeapi.com/ratodo/uptime/YMnYEKpjxRtZbKET?monitors=781549242-781549242-781549242",
 
-    title: "NoCodeAPI",
+    title: "夜半观星",
 
-    website: "https://nocodeapi.com",
+    website: "https://www.ratodo.com",
 
-    twitterHandle: "@nocodeapi",
+    twitterHandle: "@ratodo",
     
-    twitterURL: "https://twitter.com/nocodeapi"
+    twitterURL: "https://t.me/ratodo"
 }

@@ -53,7 +53,7 @@ svg.recharts-surface tspan {
 }
 
 .status-numbers .number {
-    background: #1877B1;
+    background: #00392F;
     display: flex;
     align-items: center;
     padding: 10px;
@@ -67,7 +67,7 @@ svg.recharts-surface tspan {
 .status-numbers .number-card label {
     font-weight: 500;
     font-size: 18px;
-    color: #344e5e;
+    color: #60d8c5;
 }
 
 .status-numbers .number-card .value {
@@ -77,7 +77,7 @@ svg.recharts-surface tspan {
 .status-numbers .number.up label {
     font-weight: 500;
     font-size: 20px;
-    color: #344e5e;
+    color: #60d8c5;
 }
 
 .status-numbers .number.down label {
